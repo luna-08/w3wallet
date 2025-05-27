@@ -2,7 +2,7 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 20px 0;
+    padding: 20px;
     
 }
 
@@ -19,7 +19,7 @@
     font-size: 25px;
     font-family: var(--roboto);
 
-    cursor: pointer;
+    cursor: default;
 }
 
 .header-button {
@@ -31,7 +31,8 @@
     background-color: var(--gray-15);
 
     color: var(--secondary-color);
-    font-weight: 16px;
+    font-weight: 500px;
+    font-size: 16px;
     font-family: var(--open-sans);
     line-height: 23px;
 
